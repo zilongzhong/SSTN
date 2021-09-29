@@ -1,5 +1,5 @@
 # SSTN
-This repo contians the source codes of SSTN for hyperspectral image classification, which is the model proposed in the accepted IEEE T-GRS paper:
+This repo contians the source codes of spectral-spatial transformer network(SSTN) for hyperspectral image classification, which is the model proposed in the accepted IEEE T-GRS paper:
 
 <br/>
 
