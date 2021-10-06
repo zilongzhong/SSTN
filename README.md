@@ -4,8 +4,8 @@ This repo contians the source codes of spectral-spatial transformer network(SSTN
 <br/>
 
 ```jason
-Zilong Zhong, Ying Li, Lingfei Ma, Jonathan Li, Wei-Shi Zheng. "Spectral-Spatial Transformer Network for Hyperspectral Image
-Classification: A Factorized Architecture Search Framework.” IEEE Transactions on Geoscience and Remote Sensing, 
+Zilong Zhong, Ying Li, Lingfei Ma, Jonathan Li, Wei-Shi Zheng. "Spectral-Spatial Transformer Network for Hyperspectral 
+Image Classification: A Factorized Architecture Search Framework.” IEEE Transactions on Geoscience and Remote Sensing, 
 DOI:10.1109/TGRS.2021.3115699,2021. (Accepted)
 ```
 ## Description
