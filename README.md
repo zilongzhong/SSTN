@@ -1,9 +1,9 @@
-# Implementation of SSTN for Hyperspectral Image Classification
+# PyTorch Implementation of SSTN for Hyperspectral Image Classification
 
 Paper links: [IEEE T-GARS paper](https://www.researchgate.net/publication/355117935_Spectral-Spatial_Transformer_Network_for_Hyperspectral_Image_Classification_A_Factorized_Architecture_Search_Framework).
 Code download link: [SSTN code](https://github.com/zilongzhong/SSTN/archive/refs/heads/main.zip).
 
-This repo contians the source codes of spectral-spatial transformer network(SSTN) for hyperspectral image classification, which is the model proposed in the accepted IEEE T-GRS paper:
+Here is the bibliography info:
 
 <br/>
 
@@ -18,5 +18,16 @@ Neural networks have dominated the research of hyperspectral image classificatio
 <img src="fig_sstn.png" height="400"/>
 
 Fig.1 Spectral-Spatial Transformer Network with the architecture of 'AEAE', in which 'A' and 'E' stand for a spatial attention block and a spectral association block, respectively. (a) Search space for unit setting. (b) Search space for block sequence.
+
+## Prerequisites
+
+## Usage
+
+## Result of Pavia Center (PC) Dataset 
+
+## Result of Indian Pines (IN) dataset
+
+## Result of University of Pavia (UP) dataset
+
 
 
