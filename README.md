@@ -1,4 +1,8 @@
-# Spectral-Spatial Transformer Network
+# Implementation of SSTN for Hyperspectral Image Classification
+
+Paper links: [IEEE T-GARS paper](https://www.researchgate.net/publication/355117935_Spectral-Spatial_Transformer_Network_for_Hyperspectral_Image_Classification_A_Factorized_Architecture_Search_Framework).
+Code download link: [SSTN code](https://github.com/zilongzhong/SSTN/archive/master.zip).
+
 This repo contians the source codes of spectral-spatial transformer network(SSTN) for hyperspectral image classification, which is the model proposed in the accepted IEEE T-GRS paper:
 
 <br/>
