@@ -32,7 +32,12 @@ When you create a conda environment, check you have installed the packages in th
 
 ## Usage
 
-HSI data can be downloaded from this website [HyperspectralData](http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes). Before running the following commands, please make sure the datasets has been put in the dataset folder. For example,./dataset/PC/Pavia_gt.mat and ./dataset/PC/Pavia.mat
+HSI data can be downloaded from this website [HyperspectralData](http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes). Before training or evaluating different models, please make sure the datasets are in the correct folder. For example, the raw HSI imagery and its ground truth map for the PC dataset should be put in the following two paths:
+
+```bash
+dataset/PC/Pavia.mat
+dataset/PC/Pavia_gt.mat 
+```
 
 Train SSTNs with widely studied hyperspectral imagery (HSI) datasets:
 ```bash
