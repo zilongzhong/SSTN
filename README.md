@@ -72,19 +72,19 @@ $ python test_PC.py --model SSRN
 ## Result of Pavia Center (PC) Dataset 
 <img src="figures/PC_Cmaps.png" height="200"/>
 
-Fig.3 Classification maps of different models on the PC dataset. 
+Fig.3 Classification maps of different models on the PC dataset. (a) False color image. (b) Ground truth labels. (c) Classification map of SSRN. (d) Classification map of SSRN.
 
 ## Result of Indian Pines (IN) dataset
 
 <img src="figures/IN_Cmaps.png" height="150"/>
 
-Fig.4 Classification maps of different models on the IN dataset. 
+Fig.4 Classification maps of different models on the IN dataset. (a) False color image. (b) Ground truth labels. (c) Classification map of SSRN. (d) Classification map of SSRN.
 
 ## Result of University of Pavia (UP) dataset
 
 <img src="figures/UP_Cmaps.png" height="200"/>
 
-Fig.5 Classification maps of different models on the UP dataset. 
+Fig.5 Classification maps of different models on the UP dataset. (a) False color image. (b) Ground truth labels. (c) Classification map of SSRN. (d) Classification map of SSRN.
 
 ## Reference
 
