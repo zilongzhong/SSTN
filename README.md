@@ -3,7 +3,6 @@
 Paper links: [SSTN published on IEEE T-GRS](https://www.researchgate.net/publication/355117935_Spectral-Spatial_Transformer_Network_for_Hyperspectral_Image_Classification_A_Factorized_Architecture_Search_Framework). Code download link: [SSTN code](https://github.com/zilongzhong/SSTN/archive/refs/heads/main.zip).
 
 Here is the bibliography info:
-
 <br/>
 
 ```jason
