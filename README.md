@@ -25,7 +25,7 @@ is produced by multiplying two reshaped tensors **Q** and **K**. Instead, the at
 ## Prerequisites
 
 - [Miniconda3](https://docs.conda.io/en/latest/miniconda.html)
-- [PyTorch 1.4+](https://github.com/tensorflow/tensorflow/tree/r1.3)
+- [PyTorch 1.10](https://pytorch.org/)
 
 When you create a conda environment, check you have installed the packages in the [package-list](https://github.com/zilongzhong/SSTN-nov/blob/master/package_list.txt). You can also refer to the [managing environments](https://conda.io/docs/user-guide/tasks/manage-environments.html) of conda.
 
@@ -63,7 +63,7 @@ $ python test_PC.py
 ```
 Commands to evaluate trained SSRNs and generate classification maps:
 ```bash
-$ python test_IN.py --model SSRN  
+$ python test_IN.py --model SSRN
 $ python test_UP.py --model SSRN
 $ python test_PC.py --model SSRN
 
