@@ -15,11 +15,11 @@ Neural networks have dominated the research of hyperspectral image classificatio
 
 <img src="figures/fig_sstn.png" height="400"/>
 
-Fig.1 Spectral-Spatial Transformer Network (**SSTN**) with the architecture of 'AEAE', in which 'A' and 'E' stand for a spatial attention block and a spectral association block, respectively. (a) Search space for unit setting. (b) Search space for block sequence.
+Fig.1 Spectral-Spatial Transformer Network (**SSTN**) with the architecture of **'AEAE'**, in which 'A' and 'E' stand for a spatial attention block and a spectral association block, respectively. (a) Search space for unit setting. (b) Search space for block sequence.
 
 <img src="figures/fig3_tfmr.png" height="220"/>
 
-Fig.2 Illustration of spatial attention module (left) and spectral association module (right). The attention maps **Attn** in the spatial attention module
+Fig.2 Illustration of **spatial attention module** (left) and **spectral association module** (right). The attention maps **Attn** in the spatial attention module
 is produced by multiplying two reshaped tensors **Q** and **K**. Instead, the attention maps **M1** and **M2** in the spectral association module are the direct output of a convolution operation. The spectral association kernels **Asso** represent a compact set of spectral vectors used to reconstruct input feature **X**.
 
 ## Prerequisites
