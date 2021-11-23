@@ -89,4 +89,4 @@ Fig.5 Classification maps of different models with 200 samples for training on t
 ## Reference
 
 1. Tensorflow implementation of SSRN: [https://github.com/zilongzhong/SSRN](https://github.com/zilongzhong/SSRN).
-2. Auto-CNN-HSI-Classification [https://github.com/YushiChen/Auto-CNN-HSI-Classification](https://github.com/YushiChen/Auto-CNN-HSI-Classification)
+2. Auto-CNN-HSI-Classification: [https://github.com/YushiChen/Auto-CNN-HSI-Classification](https://github.com/YushiChen/Auto-CNN-HSI-Classification)
