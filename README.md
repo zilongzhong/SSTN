@@ -78,13 +78,13 @@ Fig.3 Classification maps of different models with 200 samples for training on t
 
 <img src="figures/IN_Cmaps.png" height="150"/>
 
-Fig.4 Classification maps of different models with 200 samples for training on the IN dataset. (a) False color image. (b) Ground truth labels. (c) Classification map of SSRN (Overall Accuracy %) . (d) Classification map of SSTN (Overall Accuracy 94.78%).
+Fig.4 Classification maps of different models with 200 samples for training on the IN dataset. (a) False color image. (b) Ground truth labels. (c) Classification map of SSRN (Overall Accuracy 91.75%) . (d) Classification map of SSTN (Overall Accuracy 94.78%).
 
 ## Result of University of Pavia (UP) dataset
 
 <img src="figures/UP_Cmaps.png" height="200"/>
 
-Fig.5 Classification maps of different models with 200 samples for training on the UP dataset. (a) False color image. (b) Ground truth labels. (c) Classification map of SSRN (Overall Accuracy 91.75%) . (d) Classification map of SSTN (Overall Accuracy 98.21%).
+Fig.5 Classification maps of different models with 200 samples for training on the UP dataset. (a) False color image. (b) Ground truth labels. (c) Classification map of SSRN (Overall Accuracy 95.09%) . (d) Classification map of SSTN (Overall Accuracy 98.21%).
 
 ## Reference
 
