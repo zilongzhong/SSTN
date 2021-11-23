@@ -1,6 +1,6 @@
 # PyTorch Implementation of SSTN for Hyperspectral Image Classification
 
-Paper links: [SSTN published on IEEE T-GRS](https://www.researchgate.net/publication/355117935_Spectral-Spatial_Transformer_Network_for_Hyperspectral_Image_Classification_A_Factorized_Architecture_Search_Framework). Also, you can find the implementation of SSRN here: [Network Zoos](https://github.com/zilongzhong/SSTN/blob/main/NetworksBlocks.py)
+Paper links: [SSTN published on IEEE T-GRS](https://www.researchgate.net/publication/355117935_Spectral-Spatial_Transformer_Network_for_Hyperspectral_Image_Classification_A_Factorized_Architecture_Search_Framework). Also, you can directly find the implementation of SSTN and SSRN here: [Network Zoos](https://github.com/zilongzhong/SSTN/blob/main/NetworksBlocks.py)
 
 Here is the bibliography info:
 <br/>
