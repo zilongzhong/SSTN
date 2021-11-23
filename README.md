@@ -70,7 +70,7 @@ $ python test_PC.py --model SSRN
 ```
 
 ## Result of Pavia Center (PC) Dataset 
-<img src="figures/PC_Cmaps.png" height="200"/>
+<img src="figures/PC_Cmaps1.png" height="200"/>
 
 Fig.3 Classification maps of different models with 200 samples for training on the PC dataset. (a) False color image. (b) Ground truth labels. (c) Classification map of SSRN (Overall Accuracy 97.64%) . (d) Classification map of SSRN (Overall Accuracy 98.95%) .
 
