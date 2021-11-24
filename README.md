@@ -54,14 +54,14 @@ $ python train_UP.py --model SSRN
 
 ```
 
-Commands to evaluate trained SSTNs and generate classification maps:
+Commands to test trained SSTNs and generate classification maps:
 ```bash
 $ python test_IN.py
 $ python test_UP.py
 $ python test_PC.py
 
 ```
-Commands to evaluate trained SSRNs and generate classification maps:
+Commands to test trained SSRNs and generate classification maps:
 ```bash
 $ python test_IN.py --model SSRN
 $ python test_UP.py --model SSRN
