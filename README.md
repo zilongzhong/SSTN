@@ -80,7 +80,7 @@ Fig.3 Classification maps of different models with 200 samples for training on t
 
 
 ## Result of Kennedy Space Center (KSC) Dataset 
-<img src="figures/KSC_Cmaps.png" height="200"/>
+<img src="figures/KSC_Cmaps.png" height="160"/>
 
 Fig.3 Classification maps of different models with 200 samples for training on the KSC dataset. (a) False color image. (b) Ground truth labels. (c) Classification map of SSRN (Overall Accuracy 96.60%) . (d) Classification map of SSTN (Overall Accuracy **97.66%**) .
 
