@@ -41,6 +41,7 @@ HSI data can be downloaded from this website [HyperspectralData](http://www.ehu.
 Commands to train SSTNs with widely studied hyperspectral imagery (HSI) datasets:
 ```bash
 $ python train_PC.py
+$ python train_KSC.py
 $ python train_IN.py
 $ python train_UP.py
 
@@ -49,6 +50,7 @@ $ python train_UP.py
 Commands to train SSRNs with widely studied hyperspectral imagery (HSI) datasets:
 ```bash
 $ python train_PC.py --model SSRN
+$ python train_KSC.py --model SSRN
 $ python train_IN.py --model SSRN
 $ python train_UP.py --model SSRN
 
@@ -57,6 +59,7 @@ $ python train_UP.py --model SSRN
 Commands to test trained SSTNs and generate classification maps:
 ```bash
 $ python test_IN.py
+$ python test_KSC.py
 $ python test_UP.py
 $ python test_PC.py
 
@@ -64,6 +67,7 @@ $ python test_PC.py
 Commands to test trained SSRNs and generate classification maps:
 ```bash
 $ python test_IN.py --model SSRN
+$ python test_KSC.py --model SSRN
 $ python test_UP.py --model SSRN
 $ python test_PC.py --model SSRN
 
@@ -73,6 +77,13 @@ $ python test_PC.py --model SSRN
 <img src="figures/PC_Cmaps1.png" height="200"/>
 
 Fig.3 Classification maps of different models with 200 samples for training on the PC dataset. (a) False color image. (b) Ground truth labels. (c) Classification map of SSRN (Overall Accuracy 97.64%) . (d) Classification map of SSTN (Overall Accuracy **98.95%**) .
+
+
+## Result of Kennedy Space Center (KSC) Dataset 
+<img src="figures/KSC_Cmaps.png" height="200"/>
+
+Fig.3 Classification maps of different models with 200 samples for training on the KSC dataset. (a) False color image. (b) Ground truth labels. (c) Classification map of SSRN (Overall Accuracy 96.60%) . (d) Classification map of SSTN (Overall Accuracy **97.66%**) .
+
 
 ## Result of Indian Pines (IN) dataset
 
